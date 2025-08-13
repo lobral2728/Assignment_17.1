@@ -47,6 +47,6 @@ We follow a **CRISP‑DM** approach:
 ---
 
 ## Notebook Access
-View the full analysis and code in the [Jupyter Notebook](notebooks/prompt_III.ipynb).
+View the full analysis and code in the [Jupyter Notebook](prompt_III.ipynb).
 
 ---
